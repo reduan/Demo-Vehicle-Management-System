@@ -55,6 +55,5 @@
         <li><a href="DateBetweenSchedule.php">Date Between Schedule</a></li>
     </ul>
     
-    echo "Hello";
 </body>
 </html>
